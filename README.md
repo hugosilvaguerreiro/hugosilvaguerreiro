@@ -1,5 +1,6 @@
-## test
+## Hello! this is still a WORK IN PROGRESS
 
+[comment]: <> (
 
 Solarized dark             |  Solarized Ocean          |  Solarized test
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -12,7 +13,7 @@ Solarized dark             |  Solarized Ocean          |  Solarized test
 Solarized dark             |  Solarized Ocean          |  Solarized test
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg)  |  ![](https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg) |  ![](https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg)
-</details>
+ </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hugosilvaguerreiro&repo=rembg&theme=dark&show_icons=true)](https://github.com/hugosilvaguerreiro/rembg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosilvaguerreiro&theme=dark&show_icons=true)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hugosilvaguerreiro&repo=rembg&theme=dark&show_icons=true)](https://github.com/hugosilvaguerreiro/rembg)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosilvaguerreiro&theme=dark&show_icons=true) )
