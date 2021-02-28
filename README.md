@@ -1,3 +1,6 @@
 ## test
 
-<img src="https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg">
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg)  |  ![](https://raw.githubusercontent.com/hugosilvaguerreiro/hugosilvaguerreiro/main/test.svg)
